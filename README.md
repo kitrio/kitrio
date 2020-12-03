@@ -5,6 +5,3 @@
 
 <!-- Most used languages -->
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=kitrio&layout=compact&theme=wihte)](https://github.com/kitrio)
-
-
-[![kitrio's github stats](https://github-readme-stats.vercel.app/api?username=kitrio)](https://github.com/anuraghazra/github-readme-stats)
